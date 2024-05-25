@@ -1,4 +1,4 @@
-# Use Ubuntu 22.04 Image
+# Use Ubuntu 24.04 Image
 FROM mcr.microsoft.com/devcontainers/base:ubuntu-24.04
 
 # Update all packages and install python (3.11) full suite
